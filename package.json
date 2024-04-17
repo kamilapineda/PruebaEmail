@@ -1,0 +1,15 @@
+{
+  "name": "pruebasemail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "PruebaEmailInvalido.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jets": "^0.15.0"
+  }
+}
